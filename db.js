@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-var mongoDBURL = 'mongodb://localhost:27017/Hotel-Booking';
+var mongoDBURL = 'mongodb+srv://dheerjain000:rEgVPxjQqqs9NfRT@cluster13.pj8k4ku.mongodb.net/Movie-Theater-Booking';
 
 mongoose.connect(mongoDBURL , {useUnifiedTopology:true , useNewUrlParser:true})
 
