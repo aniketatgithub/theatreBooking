@@ -28,7 +28,7 @@ function Navbar() {
     <div>
       <nav className="navbar navbar-expand-lg">
         <a className="navbar-brand" href="/">
-          F4Hotels
+        Theatre
         </a>
       
         <a className="navbar-brand" href="../HelpScreen">

@@ -215,7 +215,7 @@ function Homescreen() {
               <input
                   type="text"
                   className="form-control i2 m-2"
-                  placeholder='Search Hotels'
+                  placeholder='Search Movies'
                   value={searchkey}
                   onKeyUp={filterBySearch}
                   onChange={(e)=>{setsearchkey(e.target.value)}}
