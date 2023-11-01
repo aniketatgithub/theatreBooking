@@ -33,7 +33,12 @@ export default function Loginscreen() {
         setloading(true)
         const result = await (await axios.post('/api/users/login',user)).data
         localStorage.setItem('currentUser',JSON.stringify(result))
-        window.location.href='/'
+        if (result.isAdmin) {
+          window.location.href='/admin'
+        } else {
+          window.location.href='/'
+        }
+        
       } catch (error) {
         seterror(true)
         setloading(false)
