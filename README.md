@@ -1,14 +1,9 @@
 # Theatre.com
 
 ## Team Members 
-1. Shubhada Paithankar
-2. Soumya Perala 
-3. Sai Yashwanth Reddy Gunturu 
-4. Hashmitha Katta
+1. Aniket Tikariha
+2. Dheer Manish Jain
 
-## Landing Page URL
-
-https://shubhadasanjaypait.wixsite.com/my-site-4
 
 ### Load Balancer URL : 
 
