@@ -28,11 +28,11 @@ Every Sunday
 
 ## Responsibilities:
 
-1. Frontend: Soumya , Yashwanth
-2. Backend and Database: Shubhada , Hashmitha 
-3. Project documentation and Deployment diagrams:  Soumya, Yashwanth, Shubhada, Hashmitha  
-4. UML diagrams: Shubhada, Hashmitha, Soumya, Yashwanth
-5. Deployment: Soumya, Yashwanth, Shubhada, Hashmitha 
+1. Frontend: Aniket
+2. Backend and Database: Dheer
+3. Project documentation and Deployment diagrams:  Aniket
+4. UML diagrams: Aniket
+5. Deployment: Dheer
 
 ## Project Board 
 
@@ -40,7 +40,7 @@ https://github.com/gopinathsjsu/team-project-thefantasticfour/projects/1
 
 ## Weekly Scrum Project Journal
 
-https://github.com/gopinathsjsu/team-project-thefantasticfour/blob/main/ProjectJournal/WeeklyScrumNotes.md
+[https://github.com/gopinathsjsu/team-project-thefantasticfour/blob/main/ProjectJournal/WeeklyScrumNotes.md](https://docs.google.com/spreadsheets/d/1qmmRU4QAULqanG_QedtducrRR2RhYdQSgVdDOyZW-R8/edit#gid=0)
 
 ## XP Core Values Implemented:
 
@@ -53,7 +53,7 @@ https://github.com/gopinathsjsu/team-project-thefantasticfour/blob/main/ProjectJ
 
 ## TaskSheet & Burndown Charts
 
-https://docs.google.com/spreadsheets/d/16QqGGLh-9Aux5jcrB4EtIx4T5KUgeCmy8EatuEe5T1w/edit#gid=0
+[https://docs.google.com/spreadsheets/d/16QqGGLh-9Aux5jcrB4EtIx4T5KUgeCmy8EatuEe5T1w/edit#gid=0](https://docs.google.com/spreadsheets/d/1qmmRU4QAULqanG_QedtducrRR2RhYdQSgVdDOyZW-R8/edit#gid=0)
 
 
 ## Project Diagrams:
